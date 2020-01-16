@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registration and Login</string>
+    //put here facebook app id and scheme
+    <string name="facebook_app_id">304987173556859</string>
+    <string name="fb_login_protocol_scheme">fb304987173556859</string>
+    <string name="pay_button">Pay</string>
+</resources>

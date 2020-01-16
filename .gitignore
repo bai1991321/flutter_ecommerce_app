@@ -1,0 +1,5 @@
+.project
+.buildlog
+\build
+\android\.gradle
+\android\.idea
